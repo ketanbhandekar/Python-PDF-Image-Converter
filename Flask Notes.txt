@@ -1,0 +1,13 @@
+{% block head %} {% end block %}-end block is necessary to end the statement.
+				
+{% block body %} {% end block %}
+
+DATABASE-SQLALCHEMY_DATABASE_URI= where is our database is located
+
+sqlite->simple & effective
+
+sqlite:////---->for absolute path
+sqlite:///----->for relative path
+
+
+		
